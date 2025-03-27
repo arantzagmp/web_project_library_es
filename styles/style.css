@@ -114,8 +114,7 @@
 
 .staff__cards {
   max-width: 760px;
-  margin: auto;
-  margin-top: 68px auto 0;
+  margin: 68px auto 0px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -156,7 +155,7 @@
 }
 
 .card__footer {
-  margin-top:auto;
+  margin-top: auto;
   margin: 0;
   font-size: 14px;
   line-height: 20px;
