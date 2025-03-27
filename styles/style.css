@@ -39,7 +39,7 @@
 .nav__link {
   color: #000000;
   text-decoration: none;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .header__content {
@@ -115,12 +115,13 @@
 .staff__cards {
   max-width: 760px;
   margin: auto;
-  margin-top: 68px;
+  margin-top: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   gap: 40px;
   padding-left: 0px;
+  list-style-type: none;
 }
 
 .card {
@@ -155,7 +156,7 @@
 }
 
 .card__footer {
-  margin-top: auto;
+  margin-top:auto;
   margin: 0;
   font-size: 14px;
   line-height: 20px;
