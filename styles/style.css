@@ -381,7 +381,7 @@
   display: flex;
   color: white;
   text-decoration: none;
-  align-items: left;
+  align-items:center;
   column-gap: 10px;
 }
 
